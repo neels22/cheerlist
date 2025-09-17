@@ -1,0 +1,23 @@
+myenv
+.env
+index.html
+   # Environment files
+   .env*
+   *.env
+   
+   # Credentials
+   credentials.json
+   service-account*.json
+   
+   # Python
+   __pycache__/
+   *.pyc
+   *.pyo
+   *.pyd
+   .Python
+   
+   # IDE
+   .vscode/
+   .idea/
+   *.swp
+   *.swo
